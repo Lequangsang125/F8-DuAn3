@@ -1,0 +1,41 @@
+{
+    "name": "App",
+    "icons": [
+        {
+            "src": "/assets/favicon\/android-icon-36x36.png",
+            "sizes": "/assets/favicon36x36",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon0.75"
+        },
+        {
+            "src": "/assets/favicon\/android-icon-48x48.png",
+            "sizes": "/assets/favicon48x48",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon1.0"
+        },
+        {
+            "src": "/assets/favicon\/android-icon-72x72.png",
+            "sizes": "/assets/favicon72x72",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon1.5"
+        },
+        {
+            "src": "/assets/favicon\/android-icon-96x96.png",
+            "sizes": "/assets/favicon96x96",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon2.0"
+        },
+        {
+            "src": "/assets/favicon\/android-icon-144x144.png",
+            "sizes": "/assets/favicon144x144",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon3.0"
+        },
+        {
+            "src": "/assets/favicon\/android-icon-192x192.png",
+            "sizes": "/assets/favicon192x192",
+            "type": "/assets/faviconimage\/png",
+            "density": "/assets/favicon4.0"
+        }
+    ]
+}
