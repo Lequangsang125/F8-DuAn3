@@ -10,3 +10,9 @@ body{
     font-size: 1.6rem;
     font-family: "Sora" ,sans-serif;
 }
+
+/*============common=============*/
+
+.main-content{
+    width: 1170px;
+}
