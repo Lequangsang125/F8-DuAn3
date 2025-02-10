@@ -31,6 +31,7 @@ a{
 .header {
     min-height: 100vh;
     background: var(--header-bg);
+    padding-top: 30px;
 }
 
 .logo {
@@ -99,4 +100,8 @@ a{
     font-size: 1.6em;
     font-weight: 300;
     line-height: 1.75;
+}
+
+.navbar__link--active{
+    text-shadow: 1px 0 0 currentColor;
 }
